@@ -2,8 +2,6 @@
 	import Toggle from '$lib/components/Toggle.svelte'
 </script>
 
-<a class="c2a" href="/action">Act now ></a>
-
 <footer>
 	<Toggle />
 	<a href="https://github.com/joepio/aioutreach">Source code on Github</a>
