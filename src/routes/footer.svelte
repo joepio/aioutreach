@@ -6,7 +6,7 @@
 
 <footer>
 	<Toggle />
-	<a href="https://github.com/joepio/pauseai">Source code on Github</a>
+	<a href="https://github.com/joepio/aioutreach">Source code on Github</a>
 	<a href="/rss.xml" target="_blank">RSS</a>
 	<p>CC-BY</p>
 </footer>

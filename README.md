@@ -1,10 +1,10 @@
-# PauseAI.info website
+# ai-outreach.org website
 
-SvelteKit website for [PauseAI.info](https://pauseai.info/).
+SvelteKit website for [ai-outreach.org](https://ai-outreach.org/).
 
 ## Creating articles
 
-[Create a new markdown file in `src/posts/`](https://github.com/joepio/pauseai/new/main/src/posts)
+[Create a new markdown file in `src/posts/`](https://github.com/joepio/aioutreach/new/main/src/posts)
 
 Add a title, date and a description using frontmatter (optional, but recommended):
 
@@ -25,7 +25,7 @@ The article will be published automatically when the pull request is merged.
 ## Running locally
 
 ```sh
-git clone git@github.com:joepio/pauseai.git
+git clone git@github.com:joepio/ai-outreach.git
 # Instead of pnpm you could use npm or yarn
 pnpm install
 pnpm run dev

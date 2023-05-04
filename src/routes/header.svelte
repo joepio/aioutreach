@@ -9,12 +9,7 @@
 	</a>
 
 	<div class="nav-links">
-		<NavLink href="/xrisk">Extinction risk</NavLink>
-		<NavLink href="/proposal">Proposal</NavLink>
-		<NavLink href="/learn">Learn</NavLink>
 		<NavLink href="/faq">FAQ</NavLink>
-		<!-- <NavLink href="/about">About</NavLink> -->
-		<NavLink c2a href="/action">Get in action</NavLink>
 	</div>
 </nav>
 

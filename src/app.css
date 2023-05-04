@@ -11,7 +11,7 @@ html {
 	--page-width: 40rem;
 
 	/* Colors */
-	--t-color-main: hsl(32, 100%, 54%); /* Default main color */
+	--t-color-main: hsl(0, 100%, 54%); /* Default main color */
 
 	/* dark */
 	--brand-dark: var(--t-color-main);
