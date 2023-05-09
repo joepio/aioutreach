@@ -10,7 +10,7 @@
 	<meta property="og:title" content={title} />
 	<meta
 		property="og:description"
-		content="We are risking human extinction. We need to pause AI development, right now."
+		content="Aligning our shared future."
 	/>
 </svelte:head>
 
@@ -19,7 +19,7 @@
 </section>
 
 <section>
-	<h2>Aligning our shared future</h2>
+	<h2>Our website is currently in development.</h2>
 </section>
 
 <section>
