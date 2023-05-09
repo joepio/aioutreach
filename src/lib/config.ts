@@ -1,6 +1,6 @@
 import { dev } from '$app/environment'
 
-export const title = 'PauseAI'
+export const title = 'AI Outreach'
 export const description =
-	'Halt the development of AI models that are too dangerous to be deployed.'
+	'We need a public discourse over the dangers of increasingly intelligent maschines'
 export const url = dev ? 'http://localhost:5173' : 'https://pauseai.info'
