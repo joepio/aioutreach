@@ -19,12 +19,12 @@
 </section>
 
 <section>
-	<h2>--</h2>
+	<h2>> Under construction</h2>
 </section>
 
 <section>
 
 	<p>
-		We are AI Outreach, dedicated to ensuring a safe and meaningful future alongside increasingly intelligent machines. Our website is currently under construction. Please check back soon for updates and more information.
+		We are AI Outreach, dedicated to ensuring a safe and meaningful future alongside increasingly intelligent machines. Please check back soon for updates and more information.
 	</p>
 </section>
