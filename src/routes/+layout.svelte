@@ -46,7 +46,7 @@
 
 	main {
 		padding-block: 1rem;
-		margin-bottom: 5rem;
+		margin-bottom: 2rem;
 	}
 
 	@media (min-width: --page-width) {
