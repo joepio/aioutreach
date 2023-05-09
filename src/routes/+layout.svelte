@@ -11,9 +11,7 @@
 <svelte:head>
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" />
-	<link
-		href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;700&family=Saira+Condensed:wght@700&display=swap"
-		rel="stylesheet"
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet"> 
 	/>
 </svelte:head>
 
