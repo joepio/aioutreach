@@ -15,7 +15,7 @@
 </svelte:head>
 
 <section>
-	<h1>Welcome</h1>
+	<h1>Coming soon</h1>
 </section>
 
 <section>
