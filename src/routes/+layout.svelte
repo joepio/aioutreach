@@ -18,6 +18,7 @@
 	<Header />
 
 	<main>
+		
 		<PageTransition url={data.url}>
 			<slot />
 		</PageTransition>
@@ -46,7 +47,8 @@
 
 	main {
 		padding-block: 1rem;
-		margin-bottom: 2rem;
+  margin-bottom: 1rem;
+  margin-top: -2rem;
 	}
 
 	@media (min-width: --page-width) {
