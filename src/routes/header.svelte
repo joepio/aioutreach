@@ -20,7 +20,8 @@
 		align-items: center;
 		flex-direction: column;
 		padding: 2rem 0;
-		margin-left: -1rem;
+		margin-left: -2rem;
+		margin-bottom: -2rem
 		flex-wrap: wrap;
 	}
 
