@@ -117,9 +117,8 @@ h5 {
 }
 
 .prose {
-	padding-left: 1rem; /* Fügt 1rem Padding auf der linken Seite hinzu */
-	padding-right: 1rem; /* Fügt 1rem Padding auf der rechten Seite hinzu */	
-	line-height: 1.5em;
+	padding-left: 5rem; /* Fügt 1rem Padding auf der linken Seite hinzu */	
+	line-height: 1.7em;
 }
 
 .prose :is(h2, h3, h4, h5, h6) {
