@@ -15,15 +15,15 @@
 </svelte:head>
 
 <section>
-	<h1>Coming soon</h1>
+	<h1>Welcome</h1>
 </section>
 
 <section>
-	<h2>Welcome</h2>
+	<h2>Aligning our shared future</h2>
 </section>
 
 <section>
-	<h2>Welcome</h2>
+
 	<p>
 		We are AI Outreach, dedicated to ensuring a safe and meaningful future alongside increasingly intelligent machines. Our website is currently under construction. Please check back soon for updates and more information on our mission, team, and beliefs.
 	</p>
