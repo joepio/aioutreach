@@ -4,8 +4,8 @@ body {
 
 html {
 	/* font */
-	--font-body: 'Roboto Slab', serif;
-	--font-heading: 'Saira Condensed', Impact, sans-serif;
+	--font-body: 'Rubik', sans-serif;
+	--font-heading: 'Montserrat', Impact, sans-serif;
 
 	/* Major theme stuff */
 	--page-width: 40rem;
