@@ -19,7 +19,7 @@
 		justify-content: space-between;
 		align-items: center;
 		flex-direction: column;
-		padding: 2rem 0;
+		padding: 1rem 0;
 		margin-left: -2rem;
 		margin-bottom: -2rem
 		flex-wrap: wrap;
