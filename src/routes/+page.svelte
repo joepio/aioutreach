@@ -19,7 +19,7 @@
 </section>
 
 <section>
-	<h2>Our website is currently in development.</h2>
+	<h2>Check back soon!</h2>
 </section>
 
 <section>
