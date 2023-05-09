@@ -66,7 +66,7 @@ html {
 	accent-color: var(--link);
 	background-image: var(--background);
 	background-attachment: fixed;
-	font-size: 1.2rem;
+	font-size: 1rem;
 }
 
 img {
@@ -99,7 +99,7 @@ h1 {
 }
 
 h2 {
-	font-size: 1.4rem;
+	font-size: 1.6rem;
   	margin-top: 1.5rem; /* Reduzieren Sie den oberen Rand von H2 */
     	margin-bottom: 0.3rem; /* Erhöhen Sie den unteren Rand von H2 */
 }
