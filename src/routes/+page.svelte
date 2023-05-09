@@ -25,6 +25,6 @@
 <section>
 
 	<p>
-		We are AI Outreach, dedicated to ensuring a safe and meaningful future alongside increasingly intelligent machines. Please check back soon for updates and more information.
+		We are AI Outreach, dedicated to ensuring a safe and meaningful future alongside increasingly intelligent machines; by facilitating dialouge and discourse and amplifying network effects. Please check back soon for updates and more information.
 	</p>
 </section>
